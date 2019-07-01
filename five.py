@@ -1,4 +1,4 @@
 u=int(input())
-t=["one","two","three","four","five","six","seven","eight","nine","ten"]
+t=["One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten"]
 d=t[u-1]
 print(d)
